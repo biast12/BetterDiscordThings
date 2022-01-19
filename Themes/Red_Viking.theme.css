@@ -1,0 +1,76 @@
+/**
+ * @name Red Viking
+ * @author Biast12 (Tobias)#0001
+ * @authorId 186169263126609920
+ * @description Fire & Water Discord Theme By Biast12
+ * @source https://github.com/biast12/BetterDiscordThings
+*/
+
+/* Source */
+@import url("https://raw.githubusercontent.com/biast12/BetterDiscordThings/main/Themes/Source/Red_Viking.theme.css");
+
+.theme-dark {
+  --header-primary: #ff0000;
+  --header-secondary: #b9bbbe;
+  --text-normal: #ffffff;
+  --text-muted: #72767d;
+  --text-link: #3498db;
+  --interactive-normal: #dcddde;
+  --interactive-hover: #ff0000;
+  --interactive-active: #ff0000;
+  --background-primary: #091833;
+  --background-secondary: #000b1e;
+  --background-secondary-alt: #091833;
+  --background-tertiary: #000b1e;
+  --background-accent: #ff0000;
+  --background-floating: #091833;
+  --background-modifier-hover: rgba(113, 28, 145, 0.6);
+  --background-modifier-active: rgba(19, 62, 124, 0.6);
+  --background-modifier-selected: rgba(19, 62, 124, 0.6);
+  --background-modifier-accent: rgba(10, 189, 198, 0.2);
+  --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05),
+    0 2px 0 rgba(4, 4, 5, 0.05);
+  --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
+  --logo-primary: #ff0000;
+  --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
+  --channeltextarea-background: #133e7c;
+  --activity-card-background: #000b1e;
+  --deprecated-panel-background: #091833;
+  --deprecated-card-bg: rgba(0, 11, 30, 0.6);
+  --deprecated-card-editable-bg: rgba(19, 62, 124, 0.2);
+  --deprecated-store-bg: #091833;
+  --deprecated-quickswitcher-input-background: #133e7c;
+  --deprecated-quickswitcher-input-placeholder: rgba(10, 189, 198, 0.3);
+  --deprecated-text-input-bg: rgba(0, 0, 0, 0.1);
+  --deprecated-text-input-border: rgba(0, 0, 0, 0.3);
+  --deprecated-text-input-border-hover: #040405;
+  --deprecated-text-input-border-disabled: #202225;
+  --deprecated-text-input-prefix: #dcddde;
+  --scrollbar-thin-thumb: #ff0000;
+  --scrollbar-thin-track: transparent;
+  --scrollbar-auto-thumb: #ff0000;
+  --scrollbar-auto-track: #000b1e;
+  --scrollbar-auto-scrollbar-color-thumb: #ff0000;
+  --scrollbar-auto-scrollbar-color-track: #000b1e;
+  --channels-default: #8e9297;
+  --themeColor1: #ff0000;
+  --themeColor2: rgba(255, 0, 0, 0.1);
+
+  /* Radial Status */
+  --rs-small-spacing: 1px;
+  --rs-medium-spacing: 1px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 3px;
+  --rs-large-width: 3px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-invisible-color: #747f8d;
+  --rs-phone-visible: block;
+}
+
+/* Made By Biast12 */
